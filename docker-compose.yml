@@ -1,0 +1,24 @@
+# Usage: SITE_DOMAIN=demo.example.org docker compose up -d --build
+services:
+  web:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_USE_MOCKS: "true"
+        NEXT_PUBLIC_SITE_URL: https://${SITE_DOMAIN:?set SITE_DOMAIN}
+    restart: unless-stopped
+    expose: ["3000"]
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports: ["80:80", "443:443"]
+    environment:
+      SITE_DOMAIN: ${SITE_DOMAIN}
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+    depends_on: [web]
+
+volumes:
+  caddy_data:

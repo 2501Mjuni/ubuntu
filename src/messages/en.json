@@ -1,0 +1,563 @@
+{
+  "meta": {
+    "siteName": "Ubuntu Impact",
+    "defaultTitle": "Ubuntu Impact | Human Capital Consulting Partner",
+    "defaultDescription": "Talent acquisition, capacity building, team building and event management for organisations in Tanzania.",
+    "titleTemplate": "%s | Ubuntu Impact",
+    "home": {
+      "title": "Human Capital Consulting Partner",
+      "description": "Ubuntu Impact helps organisations in Tanzania hire well, build capable teams and deliver memorable events."
+    },
+    "about": {
+      "title": "About us",
+      "description": "Our mission, vision, values and the team behind Ubuntu Impact."
+    },
+    "blog": {
+      "title": "Insights",
+      "description": "Career advice, HR thought leadership and news from Ubuntu Impact."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Talk to the Ubuntu Impact team about hiring, training or events."
+    },
+    "hire": {
+      "title": "Hire talent",
+      "description": "Tell us about the roles you need to fill and we will respond within one business day."
+    },
+    "quote": {
+      "title": "Request a quote",
+      "description": "Request a quote for capacity building, team building or event management."
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "description": "How Ubuntu Impact handles personal data."
+    },
+    "cookies": {
+      "title": "Cookie policy",
+      "description": "How this website uses cookies."
+    },
+    "jobs": {
+      "title": "Jobs",
+      "description": "Browse current job opportunities from Ubuntu Impact client organisations in Tanzania."
+    },
+    "events": {
+      "title": "Events",
+      "description": "Join workshops, masterclasses and networking sessions. Sample events shown for demonstration."
+    }
+  },
+  "common": {
+    "close": "Close",
+    "notifications": "Notifications",
+    "pagination": "Pagination",
+    "previous": "Previous page",
+    "next": "Next page",
+    "pageN": "Page {n}",
+    "skipToContent": "Skip to main content",
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "readArticle": "Read article",
+    "backHome": "Back to home",
+    "required": "required",
+    "language": "Language",
+    "switchTo": "Switch language to {language}"
+  },
+  "states": {
+    "emptyTitle": "Nothing here yet",
+    "emptyDescription": "New content will appear here soon. Please check back later.",
+    "errorTitle": "We could not load this",
+    "errorDescription": "Check your connection and try again.",
+    "retry": "Try again",
+    "retrying": "Trying…"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "blog": "Insights",
+    "contact": "Contact",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "homeLink": "Ubuntu Impact, home",
+    "servicesMenu": "Services menu",
+    "jobs": "Jobs",
+    "search": "Search",
+    "searchHint": "Search the site",
+    "events": "Events"
+  },
+  "cta": {
+    "findJob": "Find a Job",
+    "hireTalent": "Hire Talent",
+    "requestQuote": "Request a quote",
+    "getInTouch": "Get in touch"
+  },
+  "footer": {
+    "tagline": "A Human Capital Consulting Partner unleashing the potential of organisations and their people.",
+    "services": "Services",
+    "company": "Company",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy",
+    "rights": "© {year} Ubuntu Impact Limited. All rights reserved.",
+    "contactHeading": "Contact",
+    "addressPlaceholder": "Office address to be confirmed",
+    "emailPlaceholder": "Email to be confirmed",
+    "phonePlaceholder": "Phone to be confirmed"
+  },
+  "newsletter": {
+    "title": "Get career tips and new roles",
+    "description": "One email a week. Unsubscribe any time.",
+    "label": "Email address",
+    "placeholder": "you@example.com",
+    "button": "Subscribe",
+    "success": "You are subscribed. Check your inbox to confirm.",
+    "error": "We could not subscribe you. Please try again."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Human Capital Consulting Partner",
+      "title": "When people grow, organisations grow.",
+      "subtitle": "We help Tanzanian organisations hire the right people, build capable teams and run events that leave a mark.",
+      "imagePlaceholder": "Hero photo placeholder",
+      "titleStart": "Great people.",
+      "titleAccent": "Extraordinary",
+      "titleEnd": "possibilities.",
+      "location": "Rooted in Tanzania. Built around people.",
+      "explore": "Explore our expertise",
+      "visualLabel": "The Ubuntu approach",
+      "visualNote": "Connected expertise. Lasting progress.",
+      "selectService": "Discover what we can do together",
+      "scroll": "Discover the Ubuntu difference",
+      "people": "People",
+      "purpose": "Purpose",
+      "progress": "Progress",
+      "serviceDescriptions": [
+        "Find the people who move your organisation forward.",
+        "Turn potential into practical skills and stronger leadership.",
+        "Build the trust and connection behind great teamwork.",
+        "Bring people together through thoughtfully crafted experiences."
+      ]
+    },
+    "stats": {
+      "title": "Results you can count on",
+      "placedCandidates": "Candidates placed",
+      "activeJobs": "Active jobs",
+      "clientCompanies": "Client companies",
+      "yearsExperience": "Years of experience"
+    },
+    "services": {
+      "eyebrow": "What we do",
+      "title": "Four ways we help you perform",
+      "description": "Choose one service or combine them into a programme built around your goals."
+    },
+    "jobs": {
+      "eyebrow": "Opportunities",
+      "title": "Featured jobs",
+      "description": "Roles from our client organisations, updated as they are published.",
+      "cta": "Explore all jobs",
+      "emptyTitle": "No featured jobs right now",
+      "emptyDescription": "New roles are added every week. Check back soon."
+    },
+    "testimonials": {
+      "eyebrow": "Trusted by teams and candidates",
+      "title": "What people say"
+    },
+    "events": {
+      "eyebrow": "Community",
+      "title": "Upcoming events",
+      "description": "Workshops, masterclasses and networking for job seekers and HR leaders.",
+      "cta": "See all events"
+    },
+    "blog": {
+      "eyebrow": "Insights",
+      "title": "Latest from the blog",
+      "cta": "Read more articles"
+    },
+    "partners": {
+      "title": "Organisations that work with us",
+      "logoPlaceholder": "Logo placeholder"
+    },
+    "finalCta": {
+      "title": "Ready to hire, train or celebrate?",
+      "description": "Tell us what you need and we will respond within one business day."
+    }
+  },
+  "jobs": {
+    "types": {
+      "FULL_TIME": "Full-time",
+      "PART_TIME": "Part-time",
+      "CONTRACT": "Contract",
+      "INTERNSHIP": "Internship",
+      "CONSULTANCY": "Consultancy"
+    },
+    "levels": {
+      "JUNIOR": "Junior",
+      "INTERMEDIATE": "Intermediate",
+      "SENIOR": "Senior"
+    },
+    "confidential": "Confidential client",
+    "competitive": "Competitive salary",
+    "closes": "Closes {date}"
+  },
+  "events": {
+    "free": "Free",
+    "online": "Online"
+  },
+  "blog": {
+    "title": "Insights",
+    "description": "Career advice, HR thought leadership and company news.",
+    "filterLabel": "Filter by category",
+    "all": "All",
+    "categories": {
+      "career-advice": "Career advice",
+      "hr-insights": "HR insights",
+      "company-news": "Company news",
+      "events": "Events"
+    },
+    "readingTime": "{minutes} min read",
+    "coverPlaceholder": "Cover image placeholder",
+    "by": "By {author}",
+    "back": "All articles",
+    "empty": "No articles in this category yet.",
+    "related": "Keep reading"
+  },
+  "testimonials": {
+    "company": "Client company",
+    "candidate": "Placed candidate"
+  },
+  "services": {
+    "offerings": "What we offer",
+    "process": "How it works",
+    "outcomes": "Outcomes",
+    "gallery": "Gallery",
+    "galleryNote": "Photos to be supplied",
+    "testimonials": "What clients say",
+    "quoteTitle": "Get a quote for {service}",
+    "quoteText": "Share your goals and group size. We will send a tailored proposal.",
+    "hireText": "Submit a hiring brief and track your recruitment live.",
+    "stepN": "Step {n}",
+    "otherServices": "Other services",
+    "names": {
+      "talent-acquisition": "Talent Acquisition",
+      "capacity-building": "Capacity Building",
+      "team-building": "Team Building",
+      "event-management": "Event Management"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "People first. Impact always.",
+      "description": "We are a Human Capital Consulting Partner dedicated to unleashing the full potential of organisations and their people."
+    },
+    "ubuntu": {
+      "title": "What Ubuntu means to us",
+      "text": "UBUNTU represents shared humanity, connection, responsibility and the belief that progress is built together."
+    },
+    "mission": {
+      "title": "Mission",
+      "text": "To create realistic, effective and lasting solutions that help organisations and communities grow through their people. (Draft wording: to be confirmed by Ubuntu Impact.)"
+    },
+    "vision": {
+      "title": "Vision",
+      "text": "Ubuntu Impact exists to unlock the potential of people and organisations through solutions that create positive change, stronger performance and sustainable growth."
+    },
+    "values": {
+      "title": "Our values",
+      "items": [
+        {
+          "title": "Shared humanity",
+          "text": "We treat every candidate, client and colleague with dignity."
+        },
+        {
+          "title": "Connection",
+          "text": "Strong relationships make strong organisations."
+        },
+        {
+          "title": "Responsibility",
+          "text": "We own the outcomes we promise."
+        },
+        {
+          "title": "Progress together",
+          "text": "Organisations do not grow through systems alone; they grow when their people are equipped and aligned."
+        }
+      ]
+    },
+    "history": {
+      "title": "Our story",
+      "note": "Placeholder timeline: replace with the approved company history.",
+      "items": [
+        {
+          "year": "Year",
+          "title": "Founded",
+          "text": "Ubuntu Impact begins as a small consultancy."
+        },
+        {
+          "year": "Year",
+          "title": "Talent acquisition launched",
+          "text": "Recruitment mandates for corporate clients."
+        },
+        {
+          "year": "Year",
+          "title": "TalentHub platform",
+          "text": "Candidates and clients move online."
+        }
+      ]
+    },
+    "team": {
+      "title": "Meet the team",
+      "photoPlaceholder": "Team photo placeholder"
+    }
+  },
+  "contact": {
+    "title": "Let us talk",
+    "description": "Whether you are hiring, training a team or planning an event, send us a message.",
+    "formTitle": "Send a message",
+    "detailsTitle": "Reach us directly",
+    "address": "Address",
+    "email": "Email",
+    "phone": "Phone",
+    "hours": "Hours",
+    "hoursValue": "Monday to Friday, 08:00 to 17:00 (EAT)",
+    "mapTitle": "Map showing the Ubuntu Impact office area",
+    "whatsapp": "Chat on WhatsApp",
+    "whatsappMissing": "WhatsApp number to be supplied",
+    "success": "Thank you. We received your message and will reply within one business day."
+  },
+  "forms": {
+    "submit": "Send",
+    "sending": "Sending…",
+    "tryAgain": "Something went wrong. Please try again.",
+    "successTitle": "Message sent",
+    "errorTitle": "Could not send",
+    "honeypot": "Leave this field empty",
+    "captchaNote": "CAPTCHA check will appear here when enabled.",
+    "consent": "I agree that Ubuntu Impact may contact me about this request and process my details as described in the privacy policy.",
+    "fields": {
+      "companyName": "Company name",
+      "contactName": "Contact person",
+      "name": "Your name",
+      "organisation": "Organisation",
+      "email": "Email address",
+      "phone": "Phone number",
+      "phoneHint": "For example +255 712 345 678",
+      "roles": "Roles you need to fill",
+      "rolesHint": "For example: 2 accountants, 1 HR manager",
+      "headcount": "Number of hires",
+      "message": "Anything else we should know?",
+      "service": "Service",
+      "servicePlaceholder": "Choose a service",
+      "participants": "Number of participants",
+      "preferredDate": "Preferred date",
+      "details": "Tell us what you have in mind",
+      "subject": "Subject",
+      "contactMessage": "Message",
+      "serviceHint": "Talent acquisition has its own hiring form."
+    },
+    "hire": {
+      "title": "Tell us who you need",
+      "description": "Submit a brief and our team will respond within one business day.",
+      "submit": "Send hiring enquiry",
+      "success": "Thank you. A recruitment consultant will contact you within one business day."
+    },
+    "quote": {
+      "title": "Request a quote",
+      "description": "Capacity building, team building and event management.",
+      "submit": "Request quote",
+      "success": "Thank you. We will send a proposal within two business days."
+    }
+  },
+  "validation": {
+    "required": "This field is required.",
+    "email": "Enter a valid email address.",
+    "phone": "Enter a valid Tanzanian phone number.",
+    "tooShort": "Please add a little more detail.",
+    "tooLong": "That is too long.",
+    "number": "Enter a whole number greater than zero.",
+    "consent": "Please confirm to continue.",
+    "spam": "This submission was rejected."
+  },
+  "errors": {
+    "notFoundTitle": "Page not found",
+    "notFoundText": "The page you are looking for does not exist or has moved.",
+    "errorTitle": "Something went wrong",
+    "errorText": "An unexpected error occurred. You can try again or return home.",
+    "tryAgain": "Try again"
+  },
+  "legal": {
+    "placeholderNote": "Placeholder page. The final text must be supplied and approved by Ubuntu Impact and its legal adviser before launch.",
+    "updated": "Last updated: to be confirmed",
+    "privacy": {
+      "title": "Privacy policy",
+      "sections": [
+        {
+          "title": "Who we are",
+          "text": "Ubuntu Impact Limited is a professional services firm based in Tanzania."
+        },
+        {
+          "title": "What we collect",
+          "text": "Details you submit through forms on this website, such as your name, email, phone number and message."
+        },
+        {
+          "title": "How we use it",
+          "text": "To reply to your enquiry, provide the services you request and, with your consent, send updates."
+        },
+        {
+          "title": "Your rights",
+          "text": "You can ask to access, correct, export or delete your personal data. Contact us using the details on the contact page."
+        },
+        {
+          "title": "Retention and security",
+          "text": "We keep data only as long as needed and protect it with appropriate technical and organisational measures."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie policy",
+      "sections": [
+        {
+          "title": "What are cookies",
+          "text": "Small files stored on your device to make websites work and to understand how they are used."
+        },
+        {
+          "title": "Cookies we use",
+          "text": "Essential cookies that remember your language choice. Analytics and marketing cookies are not enabled yet."
+        },
+        {
+          "title": "Managing cookies",
+          "text": "You can block or delete cookies in your browser settings. Some features may then stop working."
+        }
+      ]
+    }
+  },
+  "jobBoard": {
+    "title": "Find your next role",
+    "description": "Browse current opportunities from our client organisations. Sample listings shown for demonstration.",
+    "searchLabel": "Search jobs",
+    "searchPlaceholder": "Job title, skill or company",
+    "filters": "Filters",
+    "clear": "Clear all",
+    "sortBy": "Sort by",
+    "sort": {
+      "newest": "Newest first",
+      "deadline": "Closing soonest",
+      "salary": "Highest salary"
+    },
+    "type": "Job type",
+    "level": "Career level",
+    "location": "Location",
+    "industry": "Industry",
+    "any": "Any",
+    "results": "{count, plural, =0 {No jobs} one {# job} other {# jobs}} found",
+    "posted": "Posted {date}",
+    "emptyTitle": "No jobs match your search",
+    "emptyDescription": "Try removing a filter or searching for a different keyword.",
+    "errorTitle": "We could not load jobs",
+    "view": "View details",
+    "apply": "Apply now",
+    "skills": "Key skills",
+    "about": "About the role",
+    "responsibilities": "What you will do",
+    "requirements": "What we look for",
+    "salary": "Salary",
+    "deadline": "Application deadline",
+    "share": "Copy link",
+    "copied": "Link copied",
+    "respItems": [
+      "Deliver against agreed targets and quality standards",
+      "Work with colleagues across teams to solve problems early",
+      "Report progress clearly to your line manager"
+    ],
+    "reqItems": [
+      "Relevant qualification or equivalent experience",
+      "Strong written and spoken English and Swahili",
+      "Reliable, organised and willing to learn"
+    ],
+    "sampleNote": "Sample job description for demonstration.",
+    "applyTitle": "Apply for {title}",
+    "applyDescription": "Share your details and our recruiters will be in touch.",
+    "coverNote": "Short note to the recruiter",
+    "submit": "Send application",
+    "applied": "Application sent",
+    "appliedText": "Thank you. This is a demonstration, so no application was recorded.",
+    "page": "Page {page} of {pages}",
+    "home": "Back to home",
+    "similar": "Keep exploring",
+    "cta": "See all jobs"
+  },
+  "palette": {
+    "placeholder": "Search pages, services, jobs and articles",
+    "empty": "Nothing found for “{q}”",
+    "pages": "Pages",
+    "services": "Services",
+    "jobs": "Jobs",
+    "articles": "Articles",
+    "hint": "Type to search",
+    "navigate": "↑↓ to move, Enter to open, Esc to close",
+    "shortcut": "Search (Ctrl K)"
+  },
+  "estimator": {
+    "title": "Estimate your hiring",
+    "description": "Move the sliders for an indicative cost and timeline.",
+    "level": "Seniority of the role",
+    "salary": "Monthly salary",
+    "roles": "Number of roles",
+    "fee": "Indicative fee (TZS)",
+    "time": "Typical time to hire",
+    "days": "{min}–{max} days",
+    "shortlist": "Shortlist size",
+    "candidates": "{count} candidates per role",
+    "disclaimer": "Illustrative only, based on placeholder rates. It is not a quote. Send the enquiry below for a real proposal."
+  },
+  "eventsPage": {
+    "title": "Events and workshops",
+    "description": "Join workshops, masterclasses and networking sessions. Sample events shown for demonstration.",
+    "all": "All",
+    "list": "List",
+    "calendar": "Calendar",
+    "filter": "Filter by category",
+    "empty": "No events in this category",
+    "rsvp": "Reserve a seat",
+    "rsvpTitle": "Reserve a seat: {title}",
+    "rsvpDescription": "Tell us who is coming.",
+    "attendees": "Number of attendees",
+    "done": "You are on the list",
+    "doneText": "Thank you. This is a demonstration, so no booking was recorded.",
+    "prev": "Previous month",
+    "next": "Next month",
+    "submit": "Confirm reservation",
+    "viewer": "View mode"
+  },
+  "blogSearch": {
+    "label": "Search articles",
+    "placeholder": "Search articles",
+    "empty": "No articles match “{q}”",
+    "related": "Keep reading"
+  },
+  "quiz": {
+    "eyebrow": "Not sure where to start?",
+    "title": "Which service fits you?",
+    "description": "Answer three quick questions and we will point you to the right place.",
+    "step": "Question {n} of {total}",
+    "back": "Back",
+    "q1": "What is your biggest need right now?",
+    "q1a": "Finding the right people to hire",
+    "q1b": "Helping staff build skills",
+    "q1c": "Strengthening how our teams work together",
+    "q1d": "Delivering a conference, launch or celebration",
+    "q2": "How soon do you need results?",
+    "q2a": "Within weeks",
+    "q2b": "Within a quarter",
+    "q2c": "Over the next year",
+    "q3": "How large is the group involved?",
+    "q3a": "Just a few people",
+    "q3b": "A department (10 to 50)",
+    "q3c": "A whole organisation (50+)",
+    "result": "We recommend",
+    "why": "Based on your answers, this is the best match. You can always speak to a consultant to confirm.",
+    "learn": "See this service",
+    "quote": "Request a quote",
+    "hire": "Hire talent",
+    "restart": "Start again"
+  }
+}

@@ -1,0 +1,12 @@
+# For a server whose ports 80/443 are already used by another reverse proxy.
+# Starts only the site on port ${SITE_PORT:-3010}, with no proxy and no HTTPS. Reachable at http://<server-ip>:3010.
+# Usage: SITE_DOMAIN=ubuntu.shambaos.org docker compose -f docker-compose.behind-proxy.yml up -d --build
+services:
+  web:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_USE_MOCKS: "true"
+        NEXT_PUBLIC_SITE_URL: https://${SITE_DOMAIN:?set SITE_DOMAIN}
+    restart: unless-stopped
+    ports: ["${SITE_PORT:-3010}:3000"]

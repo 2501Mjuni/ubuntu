@@ -1,0 +1,563 @@
+{
+  "meta": {
+    "siteName": "Ubuntu Impact",
+    "defaultTitle": "Ubuntu Impact | Mshirika wa Ushauri wa Rasilimali Watu",
+    "defaultDescription": "Uajiri wa vipaji, kujenga uwezo, kujenga timu na usimamizi wa matukio kwa mashirika nchini Tanzania.",
+    "titleTemplate": "%s | Ubuntu Impact",
+    "home": {
+      "title": "Mshirika wa Ushauri wa Rasilimali Watu",
+      "description": "Ubuntu Impact husaidia mashirika nchini Tanzania kuajiri vizuri, kujenga timu zenye uwezo na kuendesha matukio ya kukumbukwa."
+    },
+    "about": {
+      "title": "Kuhusu sisi",
+      "description": "Dhamira, maono, maadili na timu iliyo nyuma ya Ubuntu Impact."
+    },
+    "blog": {
+      "title": "Makala",
+      "description": "Ushauri wa kazi, mawazo ya uongozi wa HR na habari kutoka Ubuntu Impact."
+    },
+    "contact": {
+      "title": "Wasiliana nasi",
+      "description": "Zungumza na timu ya Ubuntu Impact kuhusu uajiri, mafunzo au matukio."
+    },
+    "hire": {
+      "title": "Ajiri vipaji",
+      "description": "Tuambie nafasi unazohitaji kujaza nasi tutajibu ndani ya siku moja ya kazi."
+    },
+    "quote": {
+      "title": "Omba bei",
+      "description": "Omba bei ya kujenga uwezo, kujenga timu au usimamizi wa matukio."
+    },
+    "privacy": {
+      "title": "Sera ya faragha",
+      "description": "Jinsi Ubuntu Impact inavyoshughulikia taarifa binafsi."
+    },
+    "cookies": {
+      "title": "Sera ya vidakuzi",
+      "description": "Jinsi tovuti hii inavyotumia vidakuzi."
+    },
+    "jobs": {
+      "title": "Kazi",
+      "description": "Tazama nafasi za kazi za sasa kutoka mashirika ya wateja wa Ubuntu Impact nchini Tanzania."
+    },
+    "events": {
+      "title": "Matukio",
+      "description": "Jiunge na warsha, madarasa maalum na vikao vya mtandao. Matukio ni ya mfano kwa maonyesho."
+    }
+  },
+  "common": {
+    "close": "Funga",
+    "notifications": "Arifa",
+    "pagination": "Kurasa",
+    "previous": "Ukurasa uliopita",
+    "next": "Ukurasa unaofuata",
+    "pageN": "Ukurasa wa {n}",
+    "skipToContent": "Ruka hadi maudhui makuu",
+    "learnMore": "Jifunze zaidi",
+    "viewAll": "Tazama zote",
+    "readArticle": "Soma makala",
+    "backHome": "Rudi mwanzo",
+    "required": "inahitajika",
+    "language": "Lugha",
+    "switchTo": "Badilisha lugha kuwa {language}"
+  },
+  "states": {
+    "emptyTitle": "Bado hakuna kitu hapa",
+    "emptyDescription": "Maudhui mapya yataonekana hapa hivi karibuni. Tafadhali rudi baadaye.",
+    "errorTitle": "Hatukuweza kupakia hii",
+    "errorDescription": "Angalia mtandao wako kisha ujaribu tena.",
+    "retry": "Jaribu tena",
+    "retrying": "Inajaribu…"
+  },
+  "nav": {
+    "label": "Urambazaji mkuu",
+    "home": "Mwanzo",
+    "services": "Huduma",
+    "about": "Kuhusu",
+    "blog": "Makala",
+    "contact": "Wasiliana",
+    "menu": "Menyu",
+    "openMenu": "Fungua menyu",
+    "closeMenu": "Funga menyu",
+    "homeLink": "Ubuntu Impact, ukurasa wa mwanzo",
+    "servicesMenu": "Menyu ya huduma",
+    "jobs": "Kazi",
+    "search": "Tafuta",
+    "searchHint": "Tafuta kwenye tovuti",
+    "events": "Matukio"
+  },
+  "cta": {
+    "findJob": "Tafuta Kazi",
+    "hireTalent": "Ajiri Vipaji",
+    "requestQuote": "Omba bei",
+    "getInTouch": "Wasiliana nasi"
+  },
+  "footer": {
+    "tagline": "Mshirika wa ushauri wa rasilimali watu anayefungua uwezo wa mashirika na watu wake.",
+    "services": "Huduma",
+    "company": "Kampuni",
+    "legal": "Kisheria",
+    "privacy": "Sera ya faragha",
+    "cookies": "Sera ya vidakuzi",
+    "rights": "© {year} Ubuntu Impact Limited. Haki zote zimehifadhiwa.",
+    "contactHeading": "Mawasiliano",
+    "addressPlaceholder": "Anwani ya ofisi itathibitishwa",
+    "emailPlaceholder": "Barua pepe itathibitishwa",
+    "phonePlaceholder": "Simu itathibitishwa"
+  },
+  "newsletter": {
+    "title": "Pata vidokezo vya kazi na nafasi mpya",
+    "description": "Barua pepe moja kwa wiki. Jiondoe wakati wowote.",
+    "label": "Barua pepe",
+    "placeholder": "wewe@mfano.com",
+    "button": "Jisajili",
+    "success": "Umejisajili. Angalia barua pepe yako kuthibitisha.",
+    "error": "Hatukuweza kukusajili. Tafadhali jaribu tena."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Mshirika wa Ushauri wa Rasilimali Watu",
+      "title": "Watu wanapokua, mashirika hukua.",
+      "subtitle": "Tunasaidia mashirika ya Tanzania kuajiri watu sahihi, kujenga timu zenye uwezo na kuendesha matukio yanayoacha alama.",
+      "imagePlaceholder": "Mahali pa picha kuu",
+      "titleStart": "Watu bora.",
+      "titleAccent": "Uwezekano",
+      "titleEnd": "usio na mipaka.",
+      "location": "Tanzania nyumbani. Watu kiini cha kila kitu.",
+      "explore": "Gundua utaalamu wetu",
+      "visualLabel": "Mbinu ya Ubuntu",
+      "visualNote": "Utaalamu uliounganishwa. Maendeleo ya kudumu.",
+      "selectService": "Gundua tunachoweza kufanya pamoja",
+      "scroll": "Gundua tofauti ya Ubuntu",
+      "people": "Watu",
+      "purpose": "Kusudi",
+      "progress": "Maendeleo",
+      "serviceDescriptions": [
+        "Pata watu wanaosukuma shirika lako mbele.",
+        "Badilisha uwezo kuwa ujuzi wa vitendo na uongozi bora.",
+        "Jenga uaminifu na uhusiano nyuma ya ushirikiano bora.",
+        "Unganisha watu kupitia matukio yaliyoandaliwa kwa makini."
+      ]
+    },
+    "stats": {
+      "title": "Matokeo unayoweza kutegemea",
+      "placedCandidates": "Wagombea waliopata kazi",
+      "activeJobs": "Nafasi za kazi zilizo wazi",
+      "clientCompanies": "Kampuni wateja",
+      "yearsExperience": "Miaka ya uzoefu"
+    },
+    "services": {
+      "eyebrow": "Tunachofanya",
+      "title": "Njia nne za kukusaidia kufanikiwa",
+      "description": "Chagua huduma moja au changanya kuwa programu iliyojengwa kwa malengo yako."
+    },
+    "jobs": {
+      "eyebrow": "Fursa",
+      "title": "Kazi zilizoangaziwa",
+      "description": "Nafasi kutoka mashirika wateja wetu, zinasasishwa zinapochapishwa.",
+      "cta": "Tazama kazi zote",
+      "emptyTitle": "Hakuna kazi zilizoangaziwa kwa sasa",
+      "emptyDescription": "Nafasi mpya huongezwa kila wiki. Rudi baadaye."
+    },
+    "testimonials": {
+      "eyebrow": "Tunaaminiwa na timu na wagombea",
+      "title": "Watu wanasemaje"
+    },
+    "events": {
+      "eyebrow": "Jamii",
+      "title": "Matukio yajayo",
+      "description": "Warsha, madarasa maalum na mitandao kwa watafuta kazi na viongozi wa HR.",
+      "cta": "Tazama matukio yote"
+    },
+    "blog": {
+      "eyebrow": "Makala",
+      "title": "Mpya kutoka blogu",
+      "cta": "Soma makala zaidi"
+    },
+    "partners": {
+      "title": "Mashirika yanayofanya kazi nasi",
+      "logoPlaceholder": "Mahali pa nembo"
+    },
+    "finalCta": {
+      "title": "Tayari kuajiri, kufundisha au kusherehekea?",
+      "description": "Tuambie unachohitaji nasi tutajibu ndani ya siku moja ya kazi."
+    }
+  },
+  "jobs": {
+    "types": {
+      "FULL_TIME": "Muda wote",
+      "PART_TIME": "Muda nusu",
+      "CONTRACT": "Mkataba",
+      "INTERNSHIP": "Mafunzo kwa vitendo",
+      "CONSULTANCY": "Ushauri"
+    },
+    "levels": {
+      "JUNIOR": "Ngazi ya kuanza",
+      "INTERMEDIATE": "Ngazi ya kati",
+      "SENIOR": "Ngazi ya juu"
+    },
+    "confidential": "Mteja wa siri",
+    "competitive": "Mshahara wa ushindani",
+    "closes": "Inafungwa {date}"
+  },
+  "events": {
+    "free": "Bure",
+    "online": "Mtandaoni"
+  },
+  "blog": {
+    "title": "Makala",
+    "description": "Ushauri wa kazi, mawazo ya uongozi wa HR na habari za kampuni.",
+    "filterLabel": "Chuja kwa kategoria",
+    "all": "Zote",
+    "categories": {
+      "career-advice": "Ushauri wa kazi",
+      "hr-insights": "Maarifa ya HR",
+      "company-news": "Habari za kampuni",
+      "events": "Matukio"
+    },
+    "readingTime": "Dakika {minutes} kusoma",
+    "coverPlaceholder": "Mahali pa picha ya jalada",
+    "by": "Na {author}",
+    "back": "Makala zote",
+    "empty": "Hakuna makala kwenye kategoria hii bado.",
+    "related": "Endelea kusoma"
+  },
+  "testimonials": {
+    "company": "Kampuni mteja",
+    "candidate": "Mgombea aliyepata kazi"
+  },
+  "services": {
+    "offerings": "Tunachotoa",
+    "process": "Jinsi inavyofanya kazi",
+    "outcomes": "Matokeo",
+    "gallery": "Picha",
+    "galleryNote": "Picha zitawekwa",
+    "testimonials": "Wateja wanasemaje",
+    "quoteTitle": "Pata bei ya {service}",
+    "quoteText": "Tuambie malengo na idadi ya watu. Tutakutumia pendekezo maalum.",
+    "hireText": "Wasilisha maelezo ya uajiri na ufuatilie uajiri wako moja kwa moja.",
+    "stepN": "Hatua ya {n}",
+    "otherServices": "Huduma nyingine",
+    "names": {
+      "talent-acquisition": "Uajiri wa Vipaji",
+      "capacity-building": "Kujenga Uwezo",
+      "team-building": "Kujenga Timu",
+      "event-management": "Usimamizi wa Matukio"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Watu kwanza. Athari daima.",
+      "description": "Sisi ni mshirika wa ushauri wa rasilimali watu tunayejitolea kufungua uwezo kamili wa mashirika na watu wake."
+    },
+    "ubuntu": {
+      "title": "Ubuntu inamaanisha nini kwetu",
+      "text": "UBUNTU inawakilisha utu wa pamoja, uhusiano, uwajibikaji na imani kwamba maendeleo hujengwa pamoja."
+    },
+    "mission": {
+      "title": "Dhamira",
+      "text": "Kuunda suluhisho halisi, madhubuti na endelevu zinazosaidia mashirika na jamii kukua kupitia watu wao. (Maneno ya rasimu: yathibitishwe na Ubuntu Impact.)"
+    },
+    "vision": {
+      "title": "Maono",
+      "text": "Ubuntu Impact ipo kufungua uwezo wa watu na mashirika kupitia suluhisho zinazoleta mabadiliko chanya, utendaji bora na ukuaji endelevu."
+    },
+    "values": {
+      "title": "Maadili yetu",
+      "items": [
+        {
+          "title": "Utu wa pamoja",
+          "text": "Tunamheshimu kila mgombea, mteja na mwenzetu."
+        },
+        {
+          "title": "Uhusiano",
+          "text": "Mahusiano imara hujenga mashirika imara."
+        },
+        {
+          "title": "Uwajibikaji",
+          "text": "Tunawajibika kwa matokeo tunayoahidi."
+        },
+        {
+          "title": "Maendeleo pamoja",
+          "text": "Mashirika hayakui kwa mifumo pekee; hukua pale watu wake wanapowezeshwa na kuelekezwa pamoja."
+        }
+      ]
+    },
+    "history": {
+      "title": "Hadithi yetu",
+      "note": "Ratiba ya mfano: badilisha na historia ya kampuni iliyoidhinishwa.",
+      "items": [
+        {
+          "year": "Mwaka",
+          "title": "Kuanzishwa",
+          "text": "Ubuntu Impact inaanza kama kampuni ndogo ya ushauri."
+        },
+        {
+          "year": "Mwaka",
+          "title": "Uajiri wa vipaji ulizinduliwa",
+          "text": "Kazi za uajiri kwa wateja wa kampuni."
+        },
+        {
+          "year": "Mwaka",
+          "title": "Jukwaa la TalentHub",
+          "text": "Wagombea na wateja wanahamia mtandaoni."
+        }
+      ]
+    },
+    "team": {
+      "title": "Kutana na timu",
+      "photoPlaceholder": "Mahali pa picha ya mfanyakazi"
+    }
+  },
+  "contact": {
+    "title": "Tuzungumze",
+    "description": "Iwe unaajiri, unafundisha timu au unapanga tukio, tutumie ujumbe.",
+    "formTitle": "Tuma ujumbe",
+    "detailsTitle": "Tufikie moja kwa moja",
+    "address": "Anwani",
+    "email": "Barua pepe",
+    "phone": "Simu",
+    "hours": "Saa za kazi",
+    "hoursValue": "Jumatatu hadi Ijumaa, 08:00 hadi 17:00 (EAT)",
+    "mapTitle": "Ramani inayoonyesha eneo la ofisi ya Ubuntu Impact",
+    "whatsapp": "Ongea kwenye WhatsApp",
+    "whatsappMissing": "Namba ya WhatsApp itawekwa",
+    "success": "Asante. Tumepokea ujumbe wako na tutajibu ndani ya siku moja ya kazi."
+  },
+  "forms": {
+    "submit": "Tuma",
+    "sending": "Inatuma…",
+    "tryAgain": "Kuna hitilafu. Tafadhali jaribu tena.",
+    "successTitle": "Ujumbe umetumwa",
+    "errorTitle": "Haikuweza kutumwa",
+    "honeypot": "Acha sehemu hii wazi",
+    "captchaNote": "Uhakiki wa CAPTCHA utaonekana hapa utakapowashwa.",
+    "consent": "Nakubali Ubuntu Impact inaweza kuwasiliana nami kuhusu ombi hili na kushughulikia taarifa zangu kama ilivyoelezwa kwenye sera ya faragha.",
+    "fields": {
+      "companyName": "Jina la kampuni",
+      "contactName": "Mtu wa mawasiliano",
+      "name": "Jina lako",
+      "organisation": "Shirika",
+      "email": "Barua pepe",
+      "phone": "Namba ya simu",
+      "phoneHint": "Mfano +255 712 345 678",
+      "roles": "Nafasi unazohitaji kujaza",
+      "rolesHint": "Mfano: wahasibu 2, meneja 1 wa HR",
+      "headcount": "Idadi ya waajiriwa",
+      "message": "Kuna jambo jingine tunalopaswa kujua?",
+      "service": "Huduma",
+      "servicePlaceholder": "Chagua huduma",
+      "participants": "Idadi ya washiriki",
+      "preferredDate": "Tarehe unayopendelea",
+      "details": "Tuambie unachofikiria",
+      "subject": "Mada",
+      "contactMessage": "Ujumbe",
+      "serviceHint": "Uajiri wa vipaji una fomu yake ya uajiri."
+    },
+    "hire": {
+      "title": "Tuambie unahitaji nani",
+      "description": "Wasilisha maelezo nasi tutajibu ndani ya siku moja ya kazi.",
+      "submit": "Tuma ombi la uajiri",
+      "success": "Asante. Mshauri wa uajiri atawasiliana nawe ndani ya siku moja ya kazi."
+    },
+    "quote": {
+      "title": "Omba bei",
+      "description": "Kujenga uwezo, kujenga timu na usimamizi wa matukio.",
+      "submit": "Omba bei",
+      "success": "Asante. Tutakutumia pendekezo ndani ya siku mbili za kazi."
+    }
+  },
+  "validation": {
+    "required": "Sehemu hii inahitajika.",
+    "email": "Weka barua pepe sahihi.",
+    "phone": "Weka namba sahihi ya simu ya Tanzania.",
+    "tooShort": "Tafadhali ongeza maelezo kidogo zaidi.",
+    "tooLong": "Ni ndefu mno.",
+    "number": "Weka namba kamili kubwa kuliko sifuri.",
+    "consent": "Tafadhali thibitisha ili kuendelea.",
+    "spam": "Ombi hili limekataliwa."
+  },
+  "errors": {
+    "notFoundTitle": "Ukurasa haupatikani",
+    "notFoundText": "Ukurasa unaotafuta haupo au umehamishwa.",
+    "errorTitle": "Kuna hitilafu",
+    "errorText": "Hitilafu isiyotarajiwa imetokea. Jaribu tena au rudi mwanzo.",
+    "tryAgain": "Jaribu tena"
+  },
+  "legal": {
+    "placeholderNote": "Ukurasa wa mfano. Maandishi ya mwisho lazima yatolewe na kuidhinishwa na Ubuntu Impact na mshauri wake wa kisheria kabla ya kuzinduliwa.",
+    "updated": "Imesasishwa mwisho: itathibitishwa",
+    "privacy": {
+      "title": "Sera ya faragha",
+      "sections": [
+        {
+          "title": "Sisi ni nani",
+          "text": "Ubuntu Impact Limited ni kampuni ya huduma za kitaalamu yenye makao yake Tanzania."
+        },
+        {
+          "title": "Tunachokusanya",
+          "text": "Taarifa unazowasilisha kupitia fomu za tovuti hii, kama jina, barua pepe, namba ya simu na ujumbe."
+        },
+        {
+          "title": "Jinsi tunavyotumia",
+          "text": "Kujibu ombi lako, kutoa huduma unazoomba na, kwa ridhaa yako, kutuma taarifa mpya."
+        },
+        {
+          "title": "Haki zako",
+          "text": "Unaweza kuomba kupata, kurekebisha, kuhamisha au kufuta taarifa zako binafsi. Wasiliana nasi kupitia ukurasa wa mawasiliano."
+        },
+        {
+          "title": "Uhifadhi na usalama",
+          "text": "Tunahifadhi taarifa kwa muda unaohitajika tu na kuzilinda kwa hatua za kiufundi na za shirika zinazofaa."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Sera ya vidakuzi",
+      "sections": [
+        {
+          "title": "Vidakuzi ni nini",
+          "text": "Faili ndogo zinazohifadhiwa kwenye kifaa chako ili tovuti zifanye kazi na kuelewa jinsi zinavyotumika."
+        },
+        {
+          "title": "Vidakuzi tunavyotumia",
+          "text": "Vidakuzi muhimu vinavyokumbuka uchaguzi wako wa lugha. Vidakuzi vya uchambuzi na masoko bado havijawashwa."
+        },
+        {
+          "title": "Kudhibiti vidakuzi",
+          "text": "Unaweza kuzuia au kufuta vidakuzi kwenye mipangilio ya kivinjari. Baadhi ya huduma zinaweza kuacha kufanya kazi."
+        }
+      ]
+    }
+  },
+  "jobBoard": {
+    "title": "Pata kazi yako inayofuata",
+    "description": "Tazama nafasi za sasa kutoka mashirika ya wateja wetu. Orodha ni za mfano kwa maonyesho.",
+    "searchLabel": "Tafuta kazi",
+    "searchPlaceholder": "Jina la kazi, ujuzi au kampuni",
+    "filters": "Vichujio",
+    "clear": "Futa vyote",
+    "sortBy": "Panga kwa",
+    "sort": {
+      "newest": "Mpya kwanza",
+      "deadline": "Zinazofungwa mapema",
+      "salary": "Mshahara wa juu"
+    },
+    "type": "Aina ya kazi",
+    "level": "Ngazi ya kazi",
+    "location": "Mahali",
+    "industry": "Sekta",
+    "any": "Yoyote",
+    "results": "{count, plural, =0 {Hakuna kazi} one {Kazi #} other {Kazi #}} zimepatikana",
+    "posted": "Imewekwa {date}",
+    "emptyTitle": "Hakuna kazi zinazolingana na utafutaji wako",
+    "emptyDescription": "Jaribu kuondoa kichujio au utafute neno tofauti.",
+    "errorTitle": "Hatukuweza kupakia kazi",
+    "view": "Tazama maelezo",
+    "apply": "Omba sasa",
+    "skills": "Ujuzi muhimu",
+    "about": "Kuhusu nafasi",
+    "responsibilities": "Utakachofanya",
+    "requirements": "Tunachotafuta",
+    "salary": "Mshahara",
+    "deadline": "Mwisho wa kutuma maombi",
+    "share": "Nakili kiungo",
+    "copied": "Kiungo kimenakiliwa",
+    "respItems": [
+      "Kufikia malengo na viwango vya ubora vilivyokubaliwa",
+      "Kushirikiana na wenzako wa timu mbalimbali kutatua matatizo mapema",
+      "Kuripoti maendeleo wazi kwa msimamizi wako"
+    ],
+    "reqItems": [
+      "Sifa husika au uzoefu unaolingana",
+      "Ujuzi mzuri wa Kiingereza na Kiswahili, kwa maandishi na kuzungumza",
+      "Mwaminifu, mpangilio na tayari kujifunza"
+    ],
+    "sampleNote": "Maelezo ya kazi ya mfano kwa maonyesho.",
+    "applyTitle": "Omba nafasi ya {title}",
+    "applyDescription": "Tuma taarifa zako na waajiri wetu watawasiliana nawe.",
+    "coverNote": "Ujumbe mfupi kwa muajiri",
+    "submit": "Tuma maombi",
+    "applied": "Maombi yametumwa",
+    "appliedText": "Asante. Haya ni maonyesho, kwa hiyo maombi hayajahifadhiwa.",
+    "page": "Ukurasa {page} wa {pages}",
+    "home": "Rudi mwanzo",
+    "similar": "Endelea kuchunguza",
+    "cta": "Tazama kazi zote"
+  },
+  "palette": {
+    "placeholder": "Tafuta kurasa, huduma, kazi na makala",
+    "empty": "Hakuna kilichopatikana kwa “{q}”",
+    "pages": "Kurasa",
+    "services": "Huduma",
+    "jobs": "Kazi",
+    "articles": "Makala",
+    "hint": "Andika kutafuta",
+    "navigate": "↑↓ kusogea, Enter kufungua, Esc kufunga",
+    "shortcut": "Tafuta (Ctrl K)"
+  },
+  "estimator": {
+    "title": "Kadiria gharama za kuajiri",
+    "description": "Sogeza vitelezi kupata makadirio ya gharama na muda.",
+    "level": "Ngazi ya nafasi",
+    "salary": "Mshahara wa mwezi",
+    "roles": "Idadi ya nafasi",
+    "fee": "Ada ya makadirio (TZS)",
+    "time": "Muda wa kawaida wa kuajiri",
+    "days": "Siku {min}–{max}",
+    "shortlist": "Idadi ya walioorodheshwa",
+    "candidates": "Wagombea {count} kwa kila nafasi",
+    "disclaimer": "Ni mfano tu, unaotumia viwango vya majaribio. Si bei rasmi. Tuma ombi hapa chini kupata pendekezo halisi."
+  },
+  "eventsPage": {
+    "title": "Matukio na warsha",
+    "description": "Jiunge na warsha, madarasa maalum na vikao vya mtandao. Matukio ni ya mfano kwa maonyesho.",
+    "all": "Yote",
+    "list": "Orodha",
+    "calendar": "Kalenda",
+    "filter": "Chuja kwa kundi",
+    "empty": "Hakuna matukio katika kundi hili",
+    "rsvp": "Hifadhi kiti",
+    "rsvpTitle": "Hifadhi kiti: {title}",
+    "rsvpDescription": "Tuambie nani anakuja.",
+    "attendees": "Idadi ya washiriki",
+    "done": "Uko kwenye orodha",
+    "doneText": "Asante. Haya ni maonyesho, kwa hiyo uhifadhi haujarekodiwa.",
+    "prev": "Mwezi uliopita",
+    "next": "Mwezi ujao",
+    "submit": "Thibitisha uhifadhi",
+    "viewer": "Mwonekano"
+  },
+  "blogSearch": {
+    "label": "Tafuta makala",
+    "placeholder": "Tafuta makala",
+    "empty": "Hakuna makala zinazolingana na “{q}”",
+    "related": "Endelea kusoma"
+  },
+  "quiz": {
+    "eyebrow": "Huna uhakika pa kuanzia?",
+    "title": "Huduma ipi inakufaa?",
+    "description": "Jibu maswali matatu mafupi nasi tutakuelekeza mahali sahihi.",
+    "step": "Swali {n} kati ya {total}",
+    "back": "Rudi",
+    "q1": "Unahitaji nini zaidi kwa sasa?",
+    "q1a": "Kupata watu sahihi wa kuajiri",
+    "q1b": "Kuwasaidia wafanyakazi kukuza ujuzi",
+    "q1c": "Kuimarisha ushirikiano wa timu zetu",
+    "q1d": "Kuendesha kongamano, uzinduzi au sherehe",
+    "q2": "Unahitaji matokeo baada ya muda gani?",
+    "q2a": "Ndani ya wiki chache",
+    "q2b": "Ndani ya robo mwaka",
+    "q2c": "Katika mwaka ujao",
+    "q3": "Kundi husika lina ukubwa gani?",
+    "q3a": "Watu wachache tu",
+    "q3b": "Idara (watu 10 hadi 50)",
+    "q3c": "Shirika zima (zaidi ya 50)",
+    "result": "Tunapendekeza",
+    "why": "Kulingana na majibu yako, hii ndiyo inayofaa zaidi. Unaweza kuzungumza na mshauri kuthibitisha.",
+    "learn": "Tazama huduma hii",
+    "quote": "Omba bei",
+    "hire": "Ajiri vipaji",
+    "restart": "Anza upya"
+  }
+}
